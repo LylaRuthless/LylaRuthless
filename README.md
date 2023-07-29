@@ -8,8 +8,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🌟 I’m currently working on building my coding general knowledge
-- 🐸 I’m currently learning to build a database for a record collection :)
-- 🍄 Pronouns: She/Her
+- 🌟 I’m currently working on building my general coding knowledge and expanding my confidence in other coding languages!
+- 🍄 Working through The Odin Project to learn more about Javascript and Github :) 
 - 🌻 Fun fact: I enjoy dancing, reading, and learning new things!
 
